@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Software engineer focused on people and processes to contribute to teamwork and development in the best and correct solution for its customers. Clear understanding in software development and experienced in python, c, c++, SQL, software testing and tools like GitHub and frameworks. Great communication and determination, looking for an opportunity to contribute, learn and teach.
+
+
